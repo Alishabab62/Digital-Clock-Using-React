@@ -15,7 +15,7 @@ import React from "react";
  *    - search A3 Vezel - the list renders 2 cars
  */
 
-export const CAR_LIST = [ 
+export const CAR_LIST = [  
   { id: 1, make: "Mitsubishi", model: "Lancer", type: "Used" },
   { id: 2, make: "Honda", model: "Vezel", type: "New" },
   { id: 3, make: "Honda", model: "Civic", type: "Used" },
