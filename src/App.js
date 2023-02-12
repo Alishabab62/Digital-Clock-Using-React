@@ -1,13 +1,10 @@
-// import GetUser from "../src/getUser";
-// import ShowCurrentTime from './ShowCurrentTime'
-import Cars from "./cars";
+
+import ShowCurrentTime from './ShowCurrentTime'
 
 function App() {
   return (
     <div>
-     {/* <GetUser/> */}
-     {/* <ShowCurrentTime/> */}
-     <Cars/>
+     <ShowCurrentTime/>
     </div>
   );
 }
